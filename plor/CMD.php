@@ -50,7 +50,7 @@ require_once 'PSO.php';
 class CMD
 {
     const STDIN  = 0;
-    const STSOUT = 1;
+    const STDOUT = 1;
     const STDERR = 2;
     const OPT_EQUAL = 1;
     const OPT_MINUS = 2;
